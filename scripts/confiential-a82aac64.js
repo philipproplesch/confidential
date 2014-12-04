@@ -1,0 +1,1 @@
+!function(i){var n=i("iframe"),e=i(window),r=function(){n.css({width:e.innerWidth(),height:e.innerHeight()})};e.resize(r),r()}(jQuery);
